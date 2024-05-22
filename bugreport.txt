@@ -1,0 +1,1 @@
+Empty bug report for task 16. На веб интерфейсе (github.com) создать файл bug_report.txt.
