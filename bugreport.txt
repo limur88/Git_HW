@@ -1,1 +1,2 @@
 Empty bug report for task 16. На веб интерфейсе (github.com) создать файл bug_report.txt.
+edit file content : 18. На веб интерфейсе модифицировать файл bug_report.txt, добавить баг репорт в формате txt.
